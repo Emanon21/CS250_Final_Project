@@ -1,1 +1,3 @@
 # CS250_Final_Project
+
+To interpret user needs the product owner will make user stories for the team to know what features will be required in the project. User stories makes it easier for developers to focuse on that specific goal. It also has sizes to determine how much effort requires in a user story. I approach developing program by analyzing the requirements and test coding that requirements. The agile process that I want to practice is to practice iteration. I want to make a working product every sprint to actually see the progress. A good member is a team member that listen and respect everyone on the team.
